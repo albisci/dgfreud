@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/La tangence (ou l’entre-deux) dans la Contribution  à la conception des aphasies, de S. Freud/","created":"2025-08-03T11:14:57.418-04:00","updated":"2025-08-21T02:25:50.680-04:00"}
+{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/La tangence (ou l’entre-deux) dans la Contribution  à la conception des aphasies, de S. Freud/","created":"2025-08-03T11:14:57.418-04:00","updated":"2025-08-21T02:27:17.099-04:00"}
 ---
 
 
@@ -45,4 +45,4 @@ Poursuivons la citation:
 On remarquera que Freud emploie l’expression associations seulement à propos des « asscoaitions d’objet ». Par ailleurs les traits qui ne connectent à rien de particulier, en haut à droite, marquent l’ouverture du « complexe ». Le double trait joignant les associations visuelles à l’image sonore signale l’importance capitale de ce lien, dont Freud dit aussi dans le traité que c’est le point le plus fragile de l’opération de langage.
 Profitons-en pour souligner aussi que Freud prend note d’une remarque de Grashey, selon qui l’image visuelle est perçue instantanément tandis que l’image sonore demande un temps d’élaboration plus long (Wernicke critique cette assertion en remarquant que le sujet qui entend une mot n’entend pas une suite de lettres, et donc que le son peut aussi être entendu instantanément, mais nous pourrions opposer à cela que l’idée reste vraie surtout s’il s’agit de phrases).
 
-Plus généralement, en rapport avec notre thème de l’entre-deux, on peut signaler que si Freud est partisan d’un parallélisme psycho-physique, ***** *la fonction du langage se pose comme le point de tangence, l’entre-deux, la barrière de contact entre ces deux dimensions.*
+Plus généralement, en rapport avec notre thème de l’entre-deux, on peut signaler que si Freud est partisan d’un parallélisme psycho-physique, *la fonction du langage se pose comme le point de tangence, l’entre-deux, la barrière de contact entre ces deux dimensions.*
