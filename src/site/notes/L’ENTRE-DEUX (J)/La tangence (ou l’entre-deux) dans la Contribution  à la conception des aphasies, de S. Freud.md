@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/La tangence (ou l’entre-deux) dans la Contribution  à la conception des aphasies, de S. Freud/","created":"2025-08-03T11:14:57.418-04:00","updated":"2025-08-21T02:27:17.099-04:00"}
+{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/La tangence (ou l’entre-deux) dans la Contribution  à la conception des aphasies, de S. Freud/","created":"2025-08-03T11:14:57.418-04:00","updated":"2025-08-21T09:58:05.744-04:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Freud conteste la notion de « centres »  et montre que ces « centres » n
 
 Il y décrit une forme d’aphasie qu’il nomme « asymbolique » et qui consiste en une rupture du lien entre représentation de mot et représentation d’objet. Ce lien est par ailleurs mentionné comme le point le plus faible de l’opération du langage. 
 >[!Commentaire D.S.]+
->Notons que cette rupture entre représentation de mot et représentation de chose correspond à ce qu’il nommera plus tard [[Refoulement, répression, sublimation\|refoulement]].
+>Notons que cette rupture entre représentation de mot et représentation de chose correspond aussi à ce qu’il nommera plus tard [[Refoulement, répression, sublimation\|refoulement]].
 
 Il propose un parallélisme entre physiologie et psychologie et non une transformation de l’une en l’autre.
 
