@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/séparées/","created":"2024-07-21T08:58:50.180-04:00","updated":"2025-08-21T15:55:10.738-04:00"}
+---
+
+
+Les engrammes seraient donc des entités discrètes, quoique pas nécessairement distribués selon une topique, faute de quoi ils ne seraient pas “lisibles”. Freud les conçoit comme séparés selon leurs supports neuronaux, ce qui renvoie, sans la nommer, à la notion de frayage neuronal présentée à Fliess dans le _Projet_ de 1895. Cela concorde aussi avec ce que nous disions de la [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/production continue\|production continue]], il y a continuité psychique, mais qui se manifeste par un jaillissement que l’on pourrait dire “rythmé” d’entités séparées. Le continu et le discontinu ne sont pas contradictoires, mais complémentaires. La libre circulation de l’énergie d’investissement (processus primaire) est ce qui concilie les deux modalités.
