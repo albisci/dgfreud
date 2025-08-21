@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/-EXTRAIT DE LA \"LETTRE 52\"/","created":"2024-07-20T09:12:54.704-04:00","updated":"2025-08-21T15:35:30.460-04:00"}
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/-EXTRAIT DE LA \"LETTRE 52\"/","created":"2024-07-20T09:12:54.704-04:00","updated":"2025-08-21T15:57:49.731-04:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Tu sais que je travaille avec l'hypothèse que notre mécanisme psychique est apparu par [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/superposition de strates\|superposition de strates]], le matériel présent sous forme de [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/traces mnésiques\|traces mnésiques]] connaissant de temps en temps un réordonnancement selon de nouvelles relations, une [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/retranscription\|retranscription]]. Ce qu'il y a d'essentiellement nouveau dans ma théorie, c'est donc l'affirmation selon laquelle [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/la mémoire  présente plusieurs fois\|la mémoire n’est pas présente qu’une seule fois, mais plusieurs fois]], consignée en [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/diverses sortes de signes\|diverses sortes de signes]]. J'ai affirmé à l’époque (aphasie) qu'un réordonnancement semblable a lieu pour les voies venant de la périphérie. Je ne sais pas combien il y a d'inscriptions de ce genre. Au moins trois, [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/vraisemblablement plus\|vraisemblablement plus]].
 
-D’où le schéma suivant (fig. 3), qui fait l'hypothèse que les  inscriptions sont aussi [[séparées les unes des autres\|séparées les unes des autres]]  (pas nécessairement de façon topique) en fonction de leurs supports neuronaux. Cette hypothèse n'est peut-être pas nécessaire, elle est pourtant la plus simple et celle que l'on peut provisoirement admettre.
+D’où le schéma suivant (fig. 3), qui fait l'hypothèse que les  inscriptions sont aussi [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/séparées\|séparées les unes des autres]]  (pas nécessairement de façon topique) en fonction de leurs supports neuronaux. Cette hypothèse n'est peut-être pas nécessaire, elle est pourtant la plus simple et celle que l'on peut provisoirement admettre.
 
 ![Pasted image 20240721085725.png](/img/user/000%20TRACE,%20REFOULEMENT%20ET%20SYMBOLISATION%20copie/Lettre%2052/Pasted%20image%2020240721085725.png)  
 ![Pasted image 20240721085737.png](/img/user/000%20TRACE,%20REFOULEMENT%20ET%20SYMBOLISATION%20copie/Lettre%2052/Pasted%20image%2020240721085737.png)
