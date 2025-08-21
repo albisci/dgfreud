@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/-EXTRAIT DE LA \"LETTRE 52\"/","created":"2024-07-20T09:12:54.704-04:00","updated":"2025-08-21T15:57:49.731-04:00"}
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/-EXTRAIT DE LA \"LETTRE 52\"/","created":"2024-07-20T09:12:54.704-04:00","updated":"2025-08-21T16:00:58.401-04:00"}
 ---
 
 
@@ -14,8 +14,7 @@ D’où le schéma suivant (fig. 3), qui fait l'hypothèse que les  inscription
 
 Fig. 3
 
-Pc (_W_) sont les neurones dans lesquels apparaissent [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/les perceptions, auxquelles se rattache la conscience\|les perceptions, auxquelles se rattache la conscience]], mais qui en eux-mêmes ne conservent aucune trace de ce qui est arrivé. [[Conscience et mémoire s'excluent en effet\|Conscience et mémoire s'excluent en effet]]
-Spc (_Wz_) est la [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/Spc = première inscription des perceptions\|Spc = première inscription des perceptions]], quie est [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/tout à fait incapable de conscience\|tout à fait incapable de conscience]], disposée selon les [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/associations par simultanéité\|associations par simultanéité]]. 
+Pc (_W_) sont les neurones dans lesquels apparaissent [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/les perceptions, auxquelles se rattache la conscience\|les perceptions, auxquelles se rattache la conscience]], mais qui en eux-mêmes ne conservent aucune trace de ce qui est arrivé. [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/Conscience et mémoire\|Conscience et mémoire s'excluent en effet]] Spc (_Wz_) est la [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/Spc = première inscription des perceptions\|Spc = première inscription des perceptions]], quie est [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/tout à fait incapable de conscience\|tout à fait incapable de conscience]], disposée selon les [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/associations par simultanéité\|associations par simultanéité]]. 
 
 Ics (_Ub_)  (inconscience) est la [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/deuxième inscription\|deuxième inscription]], ordonnée Selon d'autres relations, peut-être causales. Les traces-Ics correspondraient peut-être à des [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/souvenirs conceptuels\|souvenirs conceptuels]].
 
