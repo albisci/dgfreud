@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/deuxième inscription/","created":"2024-07-21T19:42:04.323-04:00","updated":"2025-08-14T06:30:07.993-04:00"}
+---
+
+
+Pourquoi la deuxième inscription correspondrait-elle à quelque chose d’inconscient (_Ics_), dont Freud dit tout de suite qu’elle est “_ordonnée selon d’autres relations, peut-être causales”._ On voit ici à l’œuvre la pensée jacksonienne de Freud que nous avons signalée à propos de l’idée de [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/superposition de strates\|superposition de strates]]. Peut-être comprendrons-nous mieux ce qu’il veut dire en considérant qu’entre _Spc_ et _Ics_ est intervenue une traduction et donc un échec de traduction, c'est-à-dire un refoulement, de sorte que la part refoulée constituera la deuxième inscription en tant que _trace_, tandis qu’il y aurait une autre seconde inscription, en tant qu’image qui, elle, peut être _Pcs_. (Voir diagramme à la rubrique
+
+Mais ce que je dis là suppose une complexification du schéma de Freud qui, sinon, s’avère trop linéaire et en définitive contradictoire avec ce que Freud dira plus tard de l’_Ics_, notamment qu’il y a libre circulation de l’énergie, donc pas d’ordonnancement selon certains relations, causales ou autres. Nous y reviendrons (voir la rubrique “[[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/retranscription\|retranscription]]”.)

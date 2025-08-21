@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/La condition de la défense pathologique (refoulement) est donc la nature sexuelle de l’événement et sa survenue au cours d’une phase antérieure./","created":"2024-07-22T17:21:10.462-04:00","updated":"2025-08-14T06:31:13.474-04:00"}
+---
+
+
+Il y a lieu ici de se demander ce que l’événement _sexuel_ mentionné ici peut avoir de commun avec les événements traumatiques dans les névroses de guerre abordés en 1919 dans _Au-delà du principe de plaisir._ Devons-nous postuler deux cas entièrement différents mais fonctionnant selon un mécanisme commun, ou cette communauté de mécanisme recèle-t-elle un communauté de nature, mais à première vue non repérable?
+
+Une première approche nous indiquerait que le traumatisme de guerre, quand il n,est pas sexuel, n’est justement pas refoulable, c’est pour cela qu’il se présente d’emblée sous la forme de la contrainte de répétition. Le traumatisme sexuel lui, est aussi soumis à la répétition, mais celle-ci est moins apparente parce qu’une certaine élaboration est tout de même possible. Dans les termes que nous avons déjà abordés de trace et d’image, le trauma sexuel comporte la formation d’une image modérément chargée de trace, tandis que le souvenir du  trauma de guerre n’a que l’apparence d’une image, mais est essentiellement de l’ordre de la trace s’inscrivant à nouveau, sans arrêt.  Mais je ne dis cela qu’en première approximation.
