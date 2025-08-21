@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/production continue/","created":"2024-07-21T08:59:26.924-04:00","updated":"2025-08-21T15:17:49.408-04:00"}
+---
+
+Cette production continue, qui ne va pas sans révisions après-coup et les déformations qui en résultent, ne serait-elle pas à la base de ce que Freud appelle “continuité psychique”? La continuité serait par conséquent, non pas celle d’un “long fleuve tranquille”, mais d’une source jaillissante de nouvelles versions de la mémoire: continuité et discontinuité vont ainsi de pair. C’est aux points de transition entre une version et l’autre du “même” souvenir, c'est-à-dire des [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/images mnésiques\|images mnésiques]] telles qu’elle sont en train d’être rééditées, que s’insinue le pulsionnel qui caractérise les [[000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/traces mnésiques\|traces mnésiques]], formes obscures, inchoatives, mais néanmoins efficaces à induire des déformations.
