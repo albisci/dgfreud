@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/la mémoire n’est pas présente une fois mais plusieurs fois/","created":"2024-07-20T09:20:46.156-04:00","updated":"2025-08-14T06:31:23.094-04:00"}
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/la mémoire n’est pas présente une fois mais plusieurs fois/","created":"2024-07-20T09:20:46.156-04:00","updated":"2025-08-21T15:26:58.038-04:00"}
 ---
 
 
