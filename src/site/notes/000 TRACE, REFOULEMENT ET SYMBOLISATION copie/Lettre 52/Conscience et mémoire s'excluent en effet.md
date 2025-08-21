@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/Conscience et mémoire s'excluent en effet/","created":"2024-07-21T15:15:27.371-04:00","updated":"2025-08-15T10:59:01.000-04:00"}
+{"dg-publish":true,"permalink":"/000 TRACE, REFOULEMENT ET SYMBOLISATION copie/Lettre 52/Conscience et mémoire s'excluent en effet/","created":"2024-07-21T15:15:27.371-04:00","updated":"2025-08-21T15:55:38.654-04:00"}
 ---
 
 
