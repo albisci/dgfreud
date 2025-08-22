@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/Grappes conceptuelles - pulsion, refoulement/","tags":["pulsion","refoulement","métapsychologie","travail","processus","flux"],"created":"2022-09-02T09:21:19.025-04:00","updated":"2025-08-21T09:44:14.700-04:00"}
+{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/Grappes conceptuelles - pulsion, refoulement/","tags":["pulsion","refoulement","métapsychologie","travail","processus","flux"],"created":"2022-09-02T09:21:19.025-04:00","updated":"2025-08-21T09:39:53.972-04:00"}
 ---
 
 
-
+202209020921
 
 Puisqu'il faut bien penser les choses en termes de flux, de processus, il est contre-productif d'opter pour des concepts isolés et statiques. De toute façon, des concepts comme pulsion, refoulement, remémoration, répétition, perlaboration indiquent tous un mouvement et qui plus est un mouvement qui en entraîne d'autres.
 
