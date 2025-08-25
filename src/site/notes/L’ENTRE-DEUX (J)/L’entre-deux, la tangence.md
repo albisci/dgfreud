@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/L’entre-deux, la tangence/","created":"2025-08-02T18:22:33.406-04:00","updated":"2025-08-19T17:51:52.696-04:00"}
+{"dg-publish":true,"permalink":"/L’ENTRE-DEUX (J)/L’entre-deux, la tangence/","created":"2025-08-02T18:22:33.406-04:00","updated":"2025-08-25T11:43:47.236-04:00"}
 ---
 
 
-**SÉMINAIRE « PENSER AVEC FREUD »**
+[**SÉMINAIRE « PENSER AVEC FREUD »**](https://avecfreud.dscarfone.com)
 **Document 59**
 
 Année 2025-2026
@@ -178,7 +178,8 @@ Dans « Le moi et le ça », le moi est présenté comme être de surface et p
 
 On pourrait aussi considérer le court texte « Névrose et psychose » dont nous avons déjà parlé plus haut.
 
-  
+**1925**
+  « Note sur  le Bloc Magique ». Le modèle composé de feuillets superposés est un bon exemple de l’entre-deux. Le feuillet qui révèle les inscriptions lorsque la pression du stylet le colle à la couche inférieure a de quoi nous faire réfléchir; par exemple, quant à la nature du rapport entre inconscient et pré-conscient. Nous y reviendrons
 
 **1929**
 
