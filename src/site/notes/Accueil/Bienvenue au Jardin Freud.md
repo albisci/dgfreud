@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Accueil/Bienvenue au Jardin Freud/","tags":["gardenEntry"],"created":"2025-08-19T12:06:07.912-04:00","updated":"2025-08-23T10:08:39.134-04:00"}
+{"dg-publish":true,"permalink":"/Accueil/Bienvenue au Jardin Freud/","tags":["gardenEntry"],"created":"2025-08-19T12:06:07.912-04:00","updated":"2025-08-24T19:52:28.964-04:00"}
 ---
 
 Vous êtes ici à  la page d’accueil du « jardin numérique » qui est un complément au séminaire « Penser avec Freud ».
@@ -9,3 +9,5 @@ Un jardin numérique (« digital garden ») est une sorte de cahier de notes, 
 J’espère surtout qu’elles puissent inspirer aux lecteurs/trices des réflexions supplémentaires.
 
 Dominique Scarfone
+
+[Lien vers le site principal du séminaire](https://avecfreud.dscarfone.com)
